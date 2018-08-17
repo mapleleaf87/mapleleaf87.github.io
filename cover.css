@@ -1,0 +1,29 @@
+
+body {
+    font: 400 12px Rubik, sans-serif;
+}
+
+
+
+#lastName {
+    color: #CCAA00;
+}
+.jumbotron {
+    background-color: white;
+    font-family: Rubik, sans-serif;
+}
+.jumbotron p {
+    font-weight: 300;
+    color: gray;
+    letter-spacing: 3px;
+}
+
+.jumbotron h1 {
+    font-weight: 700;
+}
+
+h2 {
+    font-weight: 300;
+    color: gray;
+    letter-spacing: 3px;
+}
